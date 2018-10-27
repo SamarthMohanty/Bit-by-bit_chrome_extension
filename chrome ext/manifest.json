@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Clip Sync",
+  "description": "This extension will help you copy text from all your devices linked to google account.",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": "img/icon.png",
+   "default_popup": "popup.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}
